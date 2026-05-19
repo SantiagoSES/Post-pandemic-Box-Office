@@ -1,0 +1,147 @@
+movie_name,domestic,worldwide_gross,Distributor,movie_id,titleType,runtimeMinutes,genres,Rating,numVotes,Action,Adult,Adventure,Animation,Biography,Comedy,Crime,Drama,Family,Fantasy,Film-Noir,History,Horror,Music,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War,Western,Certification,month_number,budget,G,NC-17,PG,PG-13,R,success
+Migration,54103955,298896897,Universal Pictures,tt6495056,movie,83,"Adventure,Animation,Comedy",6.6,46584,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,12,72000000,0,0,1,0,0,1
+Winnie-the-Pooh: Blood and Honey,1750639,7717044,Fathom Events,tt19623240,movie,84,Horror,2.9,36877,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,R,2,100000,0,0,0,0,1,1
+Dicks: The Musical,1453012,1472114,A24,tt7130916,movie,86,"Comedy,Musical",5.3,4060,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,R,10,12000000,0,0,0,0,1,0
+PAW Patrol: The Mighty Movie,65231360,202231360,Paramount Pictures,tt15837338,movie,88,"Action,Adventure,Animation",5.9,6519,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,9,40387500,0,0,1,0,0,1
+Mummies,4275970,54475970,Warner Bros.,tt23177868,movie,88,"Adventure,Animation,Comedy",5.9,10326,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,G,2,12000000,1,0,0,0,0,1
+About My Father,12089391,18167819,Lionsgate,tt8373206,movie,90,Comedy,5.8,19109,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,5,30000000,0,0,1,0,0,0
+The Miracle Club,2377438,7498671,Sony Pictures Releasing,tt12712604,movie,90,"Comedy,Drama",6.4,8741,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,7,10484867,0,0,1,0,0,0
+Trolls Band Together,96370205,209361042,Universal Pictures,tt14362112,movie,91,"Adventure,Animation,Comedy",6,19916,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,G,11,95000000,1,0,0,0,0,0
+Ruby Gillman: Teenage Kraken,15753600,45528749,DreamWorks,tt27155038,movie,91,"Action,Adventure,Animation",5.7,14375,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,G,6,70000000,1,0,0,0,0,0
+Bottoms,12036071,12976079,Orion Pictures,tt17527468,movie,91,Comedy,6.7,57627,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,8,11300000,0,0,0,0,1,0
+Sisu,7265622,14281199,Lionsgate,tt14846026,movie,91,"Action,Thriller,War",6.9,120441,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,R,4,6500000,0,0,0,0,1,0
+Retribution,6937696,18685751,Roadside Attractions,tt6906292,movie,91,"Action,Mystery,Thriller",5.4,28194,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,R,8,20000000,0,0,0,0,1,0
+The Super Mario Bros. Movie,574934330,1361992475,Universal Pictures,tt6718170,movie,92,"Adventure,Animation,Comedy",7,292005,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,4,100000000,0,0,1,0,0,1
+Theater Camp,4009945,4406374,Searchlight Pictures,tt21232992,movie,92,Comedy,6.9,19539,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,7,5000000,0,0,1,0,0,0
+65,32062904,60730568,Sony Pictures Releasing,tt12261776,movie,93,"Action,Adventure,Sci-Fi",5.4,106409,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,PG-13,3,45000000,0,0,0,1,0,0
+Strays,23988885,36071267,Universal Pictures,tt15153532,movie,93,"Adventure,Comedy",6.3,37686,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,8,46000000,0,0,0,0,1,0
+Renfield,17297895,26493921,Universal Pictures,tt11358390,movie,93,"Action,Comedy,Fantasy",6.4,119425,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,R,4,65000000,0,0,0,0,1,0
+You Hurt My Feelings,4830788,5742597,A24,tt15771916,movie,93,"Comedy,Drama,Romance",6.5,17507,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PG,5,25000000,0,0,1,0,0,0
+Hypnotic,4500169,16281937,Ketchup Entertainment,tt8080204,movie,93,"Action,Drama,Mystery",5.5,46335,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,R,5,65000000,0,0,0,0,1,0
+The Amazing Maurice,4303645,21122082,Viva Pictures,tt10473036,movie,93,"Adventure,Animation,Comedy",6.2,6622,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,2,17000000,0,0,1,0,0,0
+Cocaine Bear,64670240,88314672,Universal Pictures,tt14209916,movie,95,"Comedy,Crime,Thriller",5.9,126305,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,2,35000000,0,0,0,0,1,1
+Wish,60609147,254997360,Walt Disney Studios Motion Pictures,tt11304740,movie,95,"Adventure,Animation,Comedy",5.5,50195,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,G,11,200000000,1,0,0,0,0,0
+Talk to Me,48299436,92181735,A24,tt10638522,movie,95,"Horror,Thriller",7.1,213488,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,R,7,4500000,0,0,0,0,1,1
+Joy Ride,12897789,15787929,Lionsgate,tt15268244,movie,95,Comedy,6.4,30747,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,7,32000000,0,0,0,0,1,0
+The Quiet Girl,1500014,6807187,Neon,tt15109082,movie,95,Drama,7.7,28620,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,2,20000000,0,0,1,0,0,0
+Maybe I Do,1293722,4450096,Vertical Entertainment,tt20879602,movie,95,"Comedy,Romance",5,11665,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PG,1,7500000,0,0,1,0,0,0
+Evil Dead Rise,67233054,147033054,Warner Bros.,tt13345606,movie,96,Horror,6.5,166843,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,R,4,17000000,0,0,0,0,1,1
+The Blackening,17707207,18169453,Lionsgate,tt11703244,movie,97,"Comedy,Horror,Mystery",6,27071,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,R,6,5000000,0,0,0,0,1,1
+Nefarious,5433685,6016438,SDG Releasing,tt14537248,movie,97,"Drama,Horror,Thriller",6.4,39046,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,R,4,1000000,0,0,0,0,1,1
+Eileen,1425273,1560142,Neon,tt5198890,movie,97,"Drama,Mystery,Romance",5.9,20121,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,R,12,16000000,0,0,0,0,1,0
+The Boogeyman,43244282,67307243,20th Century Studios,tt3427252,movie,98,"Horror,Mystery,Thriller",5.9,53476,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,PG-13,6,35000000,0,0,0,1,0,0
+80 for Brady,39330588,40362938,Paramount Pictures,tt18079362,movie,98,"Comedy,Drama,Sport",5.9,13946,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,PG,2,28000000,0,0,1,0,0,0
+Teenage Mutant Ninja Turtles: Mutant Mayhem,118613586,180513586,Paramount Pictures,tt8589698,movie,99,"Action,Adventure,Animation",7.2,77850,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,8,43000000,0,0,1,0,0,1
+Journey to Bethlehem,6816475,7778330,Affirm Films,tt13848804,movie,99,"Adventure,Family,Musical",6.5,3908,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,PG,11,6000000,0,0,1,0,0,0
+It Lives Inside,4675092,7370148,Neon,tt15683734,movie,99,"Drama,Horror,Thriller",5.2,9099,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,PG-13,9,30000000,0,0,0,1,0,0
+Knock at the Cabin,35397980,54760715,Universal Pictures,tt15679400,movie,100,"Horror,Mystery,Thriller",6.1,141115,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,R,2,20000000,0,0,0,0,1,1
+Golda,4801781,7726354,Bleecker Street Media,tt14454876,movie,100,"Biography,Drama,History",6,15150,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PG,8,14000000,0,0,1,0,0,0
+Skinamarink,2052272,2116254,IFC Films,tt21307994,movie,100,"Horror,Mystery",4.7,20772,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,PG,1,15000,0,0,1,0,0,1
+Camp Hideout,1125010,1128626,Roadside Attractions,tt14051976,movie,100,"Comedy,Family",4.3,1204,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,9,3500000,0,0,1,0,0,0
+Elemental,154426697,496444308,Walt Disney Studios Motion Pictures,tt15789038,movie,101,"Adventure,Animation,Comedy",7,163628,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,6,200000000,0,0,1,0,0,0
+Mafia Mamma,3496761,6119082,Bleecker Street Media,tt13923456,movie,101,"Action,Comedy,Crime",5.5,14063,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,4,41000000,0,0,0,0,1,0
+Puss in Boots: The Last Wish,130425380,480466413,Universal Pictures,tt3915174,movie,102,"Action,Adventure,Animation",7.8,223866,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,12,90000000,0,0,1,0,0,1
+M3GAN,95159005,180089109,Universal Pictures,tt8760708,movie,102,"Horror,Sci-Fi,Thriller",6.3,181255,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,PG-13,1,12000000,0,0,0,1,0,1
+Dream Scenario,5615011,12481022,A24,tt21942866,movie,102,"Comedy,Drama,Fantasy",6.8,93520,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,R,11,10000000,0,0,0,0,1,0
+Living,2984305,12370485,Sony Pictures Classics,tt9051908,movie,102,Drama,7.2,39425,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,12,10000000,0,0,1,0,0,0
+Strange World,1120039,73621640,Walt Disney Studios Motion Pictures,tt10298840,movie,102,"Action,Adventure,Animation",5.7,50551,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,11,120000000,0,0,1,0,0,0
+No Hard Feelings,50452282,87256407,Sony Pictures Releasing,tt15671028,movie,103,"Comedy,Romance",6.3,214870,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,R,6,45000000,0,0,0,0,1,0
+A Haunting in Venice,42471412,122290456,20th Century Studios,tt22687790,movie,103,"Crime,Drama,Horror",6.5,140787,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,PG-13,9,60000000,0,0,0,1,0,0
+Anyone But You,24837385,220123698,Columbia Pictures,tt26047818,movie,103,"Comedy,Romance",6.1,171999,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,R,12,25000000,0,0,0,0,1,1
+The Pope's Exorcist,20009380,76987621,Screen Gems,tt13375076,movie,103,"Horror,Thriller",6.1,101881,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,R,4,18000000,0,0,0,0,1,1
+The Expendables 4,16710153,37917985,Lionsgate,tt3291150,movie,103,"Action,Adventure,Thriller",4.8,55468,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,9,100000000,0,0,0,0,1,0
+What Happens Later,3273895,3461643,Bleecker Street Media,tt19890316,movie,103,"Comedy,Romance",4.9,5809,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,R,11,3000000,0,0,0,0,1,0
+The Retirement Plan,1607344,1653100,Falling Forward Films,tt14827638,movie,103,"Action,Comedy,Crime",5.1,11199,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,9,20000000,0,0,0,0,1,0
+Silent Night,7996185,11067228,Lionsgate,tt15799866,movie,104,"Action,Crime,Drama",5.3,27992,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,12,10000000,0,0,0,0,1,0
+Next Goal Wins,6713826,18648802,Searchlight Pictures,tt10767052,movie,104,"Comedy,Drama,Sport",6.5,31094,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,PG-13,11,14000000,0,0,0,1,0,0
+Love Again,6230837,12696584,Screen Gems,tt10276482,movie,104,"Comedy,Drama,Romance",5.9,18906,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PG-13,5,9000000,0,0,0,1,0,0
+Women Talking,5321627,9276103,United Artists Releasing,tt13669038,movie,104,Drama,6.9,64082,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,12,20000000,0,0,0,1,0,0
+The Marvels,84479155,206136557,Walt Disney Studios Motion Pictures,tt10676048,movie,105,"Action,Adventure,Sci-Fi",5.5,163176,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,PG-13,11,220000000,0,0,0,1,0,0
+Asteroid City,28153025,53857743,Focus Features,tt14230388,movie,105,"Comedy,Drama,Romance",6.4,144347,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PG-13,6,25000000,0,0,0,1,0,0
+Dumb Money,13925356,20703794,Sony Pictures Releasing,tt13957560,movie,105,"Biography,Comedy,Drama",6.8,62724,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,9,30000000,0,0,0,0,1,0
+Past Lives,11031696,41967321,A24,tt13238346,movie,105,"Drama,Romance",7.8,171826,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PG-13,6,12000000,0,0,0,1,0,1
+Thanksgiving,31800773,46553280,TriStar Pictures,tt1448754,movie,106,"Horror,Mystery,Thriller",6.2,80342,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,R,11,15000000,0,0,0,0,1,1
+"Are You There God? It's Me, Margaret.",20372406,21464043,Lionsgate,tt9185206,movie,106,"Comedy,Drama,Family",7.3,38019,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,4,30000000,0,0,0,1,0,0
+His Only Son,12392740,13817186,Angel,tt8277246,movie,106,"Drama,History",5.9,2946,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PG-13,3,250000,0,0,0,1,0,1
+Insidious: The Red Door,82156962,189086877,Screen Gems,tt13405778,movie,107,"Horror,Mystery,Thriller",5.5,63369,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,PG-13,7,16000000,0,0,0,1,0,1
+Plane,32111181,74515586,Lionsgate,tt5884796,movie,107,"Action,Adventure,Thriller",6.5,103425,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,1,25000000,0,0,0,0,1,1
+Book Club: The Next Chapter,17581565,29014500,Focus Features,tt20768712,movie,107,"Comedy,Romance",5.6,10041,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PG-13,5,20000000,0,0,0,1,0,0
+The Menu,2779574,79628200,Searchlight Pictures,tt9764362,movie,107,"Comedy,Horror,Thriller",7.2,496394,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,R,11,30000000,0,0,0,0,1,1
+The Blind,17265487,17265876,Fathom Events,tt16374352,movie,108,Drama,6.3,2976,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,9,30000000,0,0,0,1,0,0
+After Death,11477621,11830860,Angel,tt21191906,movie,108,Documentary,6.3,2072,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,10,1250000,0,0,0,1,0,1
+Freelance,5314136,10196704,Relativity Media,tt15744298,movie,108,"Action,Comedy",5.6,29172,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,10,40000000,0,0,0,0,1,0
+Five Nights at Freddy's,137275620,291493620,Universal Pictures,tt4589218,movie,109,"Horror,Mystery,Thriller",5.4,137720,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,PG-13,10,20000000,0,0,0,1,0,1
+The Equalizer 3,92373751,191067560,Columbia Pictures,tt17024450,movie,109,"Action,Crime,Thriller",6.8,160744,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,9,70000000,0,0,0,0,1,1
+Marlowe,4350243,6377603,Open Road Films (II),tt6722802,movie,109,"Crime,Drama,Mystery",5.4,14740,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,R,2,26243420,0,0,0,0,1,0
+The Nun II,86267073,269467073,Warner Bros.,tt10160976,movie,110,"Horror,Mystery,Thriller",5.6,80985,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,R,9,38500000,0,0,0,0,1,1
+Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,10117806,56319794,Crunchyroll,tt26537229,movie,110,"Action,Adventure,Animation",7.7,17283,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,3,20000000,0,0,0,0,1,1
+The Exorcist: Believer,65537395,136284218,Universal Pictures,tt12921446,movie,111,Horror,4.8,50518,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,R,10,30000000,0,0,0,0,1,1
+Air,52460106,90060106,Amazon MGM Studios,tt16419074,movie,111,"Drama,Sport",7.4,194528,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,R,4,90000000,0,0,0,0,1,0
+Missing,32502025,48767848,Sony Pictures Releasing,tt10855768,movie,111,"Drama,Mystery,Thriller",7.1,71560,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,PG-13,1,7000000,0,0,0,1,0,1
+Magic Mike's Last Dance,26005156,57105156,Warner Bros.,tt16280138,movie,112,"Comedy,Drama",5.2,19863,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,2,45000000,0,0,0,0,1,0
+The Machine,10458331,10664328,Sony Pictures Releasing,tt11040844,movie,112,"Action,Comedy",5.7,18035,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,5,20000000,0,0,0,0,1,0
+Violent Night,3278955,76004405,Universal Pictures,tt12003946,movie,112,"Action,Comedy,Thriller",6.7,121113,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,12,20000000,0,0,0,0,1,1
+Knights of the Zodiac,1090155,6986177,,tt6528290,movie,112,"Action,Adventure,Drama",4.4,18231,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,5,60000000,0,0,0,1,0,0
+Priscilla,20900492,32959079,A24,tt22041854,movie,113,"Biography,Drama,Music",6.4,54486,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,R,10,20000000,0,0,0,0,1,0
+Barbie,636225983,1445638421,Warner Bros.,tt1517268,movie,114,"Adventure,Comedy,Fantasy",6.8,667686,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,7,145000000,0,0,0,1,0,1
+Operation Fortune: Ruse de Guerre,6496125,48983306,Lionsgate,tt7985704,movie,114,"Action,Adventure,Comedy",6.3,110547,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,3,50000000,0,0,0,0,1,0
+That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,1588491,14653308,Crunchyroll,tt15467380,movie,114,"Action,Adventure,Animation",6.9,3100,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,1,5000000,0,0,0,1,0,1
+The Banshees of Inisherin,1555301,50250625,Searchlight Pictures,tt11813216,movie,114,"Comedy,Drama",7.6,295031,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,10,20000000,0,0,0,0,1,1
+The Shift,11925234,12238643,Angel,tt19406606,movie,115,"Action,Romance,Sci-Fi",5.6,6428,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,PG-13,12,6400000,0,0,0,1,0,0
+Creed III,156248615,276148615,United Artists Releasing,tt11145118,movie,116,"Action,Drama,Sport",6.7,107005,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,PG-13,3,75000000,0,0,0,1,0,1
+Wonka,133129902,632302312,Warner Bros.,tt6166392,movie,116,"Adventure,Comedy,Family",6.9,192816,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,12,125000000,0,0,1,0,0,1
+Meg 2: The Trench,82600317,397700317,Warner Bros.,tt9224104,movie,116,"Action,Adventure,Horror",5,101648,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,PG-13,8,130000000,0,0,0,1,0,1
+The Whale,12129434,57615635,A24,tt13833688,movie,117,Drama,7.6,281652,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,12,3000000,0,0,0,0,1,1
+Infinity Pool,5078400,5202301,Neon,tt10365998,movie,117,"Crime,Horror,Mystery",6,73428,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,R,1,4500000,0,0,0,0,1,0
+A Thousand and One,3400020,3463680,Focus Features,tt12427158,movie,117,"Crime,Drama",6.9,9248,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,3,3395595,0,0,0,0,1,0
+American Fiction,1655483,22483370,Metro-Goldwyn-Mayer (MGM),tt23561236,movie,117,"Comedy,Drama",7.5,133415,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,12,10000000,0,0,0,0,1,0
+Saw X,53607898,111824112,Lionsgate,tt21807222,movie,118,"Horror,Mystery,Thriller",6.6,97425,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,R,9,13000000,0,0,0,0,1,1
+The Last Voyage of the Demeter,13637180,21786047,Universal Pictures,tt1001520,movie,118,"Fantasy,Horror,Thriller",6.1,70045,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,R,8,45000000,0,0,0,0,1,0
+Kandahar,4813132,9387311,Open Road Films (II),tt5761544,movie,119,"Action,Drama,Thriller",6.1,46584,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,5,30000000,0,0,0,0,1,0
+Jesus Revolution,52102987,54295801,Lionsgate,tt10098448,movie,120,"Biography,Drama,History",7.1,16573,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PG-13,2,15000000,0,0,0,1,0,1
+BlackBerry,1476598,2047650,IFC Films,tt21867434,movie,120,"Biography,Comedy,Drama",7.3,69317,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,5,10000000,0,0,0,0,1,0
+Lost in the Stars,1721446,487637474,CMC Pictures,tt17507018,movie,121,"Crime,Drama,Mystery",6.5,3434,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,R,7,9500000,0,0,0,0,1,1
+Scream VI,108161389,168961389,Paramount Pictures,tt17663992,movie,122,"Horror,Mystery,Thriller",6.4,151476,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,R,3,33000000,0,0,0,0,1,1
+Suzume,10932037,323638107,Crunchyroll,tt16428256,movie,122,"Adventure,Animation,Drama",7.6,62403,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,4,11000000,0,0,1,0,0,1
+Haunted Mansion,67653287,117449790,Walt Disney Studios Motion Pictures,tt1695843,movie,123,"Comedy,Drama,Family",6,50039,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,7,150000000,0,0,0,1,0,0
+The Boys in the Boat,21998472,55474757,Amazon MGM Studios,tt1856080,movie,123,"Biography,Drama,History",7,29974,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PG-13,12,40000000,0,0,0,1,0,0
+The Covenant,16938039,21632392,Metro-Goldwyn-Mayer (MGM),tt4873118,movie,123,"Action,Drama,Thriller",7.5,208870,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,4,55000000,0,0,0,0,1,0
+Ant-Man and the Wasp: Quantumania,214504909,476071180,Walt Disney Studios Motion Pictures,tt10954600,movie,124,"Action,Adventure,Comedy",6,268693,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,2,200000000,0,0,0,1,0,0
+Aquaman and the Lost Kingdom,76469713,434381226,Warner Bros.,tt9663764,movie,124,"Action,Adventure,Fantasy",5.6,117471,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,12,205000000,0,0,0,1,0,0
+Godzilla Minus One,45580412,113820494,Toho International,tt23289160,movie,124,"Action,Adventure,Drama",7.6,202792,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,12,10000000,0,0,0,1,0,1
+The Boy and the Heron,35846555,290076298,GKIDS,tt6587046,movie,124,"Adventure,Animation,Drama",7.3,125827,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,12,55000000,0,0,0,1,0,1
+Champions,16397335,19159065,Focus Features,tt15339570,movie,124,"Comedy,Drama,Sport",6.8,36450,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,PG-13,3,25000000,0,0,0,1,0,0
+The First Slam Dunk,1291869,246868956,GKIDS,tt15242330,movie,124,"Animation,Comedy,Drama",8,12864,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,7,15000000,0,0,0,1,0,1
+Radical,8636299,21797528,Pantelion Films,tt14570440,movie,125,Drama,7.8,7651,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,11,10000000,0,0,0,1,0,0
+Transformers: Rise of the Beasts,157066392,438966392,Paramount Pictures,tt5090568,movie,127,"Action,Adventure,Sci-Fi",6,130796,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,PG-13,6,195000000,0,0,0,1,0,0
+Blue Beetle,72488072,130788072,Warner Bros.,tt9362930,movie,127,"Action,Adventure,Sci-Fi",5.9,116157,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,PG-13,8,104000000,0,0,0,1,0,0
+Big George Foreman,5426772,6031202,Sony Pictures Releasing,tt12226632,movie,129,"Biography,Drama,Sport",6.7,12677,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,PG-13,4,32000000,0,0,0,1,0,0
+Shazam! Fury of the Gods,57638006,134038006,Warner Bros.,tt10151854,movie,130,"Action,Adventure,Comedy",5.9,144783,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,3,125000000,0,0,0,1,0,0
+Ferrari,10778480,42285029,Neon,tt3758542,movie,130,"Biography,Drama,History",6.4,67317,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,R,12,95000000,0,0,0,0,1,0
+Sound of Freedom,184177725,250570396,Angel,tt7599146,movie,131,"Biography,Crime,Drama",7.6,137053,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,7,14500000,0,0,0,1,0,1
+Saltburn,11256512,21026167,Amazon MGM Studios,tt17351924,movie,131,"Drama,Thriller",7,264537,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,11,75000000,0,0,0,0,1,0
+The Iron Claw,15964922,45143469,A24,tt21064584,movie,132,"Biography,Drama,Sport",7.5,118388,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,R,12,15900000,0,0,0,0,1,1
+The Creator,40774679,104272136,20th Century Studios,tt11858890,movie,133,"Action,Adventure,Drama",6.7,196762,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,9,80000000,0,0,0,1,0,0
+The Holdovers,18208655,45011651,Focus Features,tt14849194,movie,133,"Comedy,Drama",7.9,247014,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,10,13000000,0,0,0,0,1,1
+Dungeons & Dragons: Honor Among Thieves,93277026,208177026,Paramount Pictures,tt2906216,movie,134,"Action,Adventure,Comedy",7.2,272884,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,3,150000000,0,0,0,1,0,0
+Gran Turismo,44428554,122101055,Sony Pictures Releasing,tt4495098,movie,134,"Action,Adventure,Drama",7.1,134674,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,8,60000000,0,0,0,1,0,0
+The Little Mermaid,298172056,569626289,Walt Disney Studios Motion Pictures,tt5971474,movie,135,"Adventure,Family,Fantasy",7.2,178188,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PG,5,250000000,0,0,1,0,0,0
+Spider-Man: Across the Spider-Verse,381311319,690897910,Columbia Pictures,tt9362722,movie,140,"Action,Adventure,Animation",8.5,519799,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,6,100000000,0,0,1,0,0,1
+Fast X,146126015,704875015,Universal Pictures,tt5433140,movie,141,"Action,Adventure,Crime",5.7,145507,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,5,340000000,0,0,0,1,0,0
+The Color Purple,44047642,67519191,Warner Bros.,tt1200263,movie,141,"Drama,Musical",6.8,20433,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,PG-13,12,90000000,0,0,0,1,0,0
+Poor Things,10269036,117625455,Searchlight Pictures,tt14230458,movie,141,"Comedy,Drama,Romance",7.7,391200,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,R,12,35000000,0,0,0,0,1,1
+The Flash,108133313,271333313,Warner Bros.,tt0439572,movie,144,"Action,Adventure,Fantasy",6.6,246692,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,6,220000000,0,0,0,1,0,0
+Creation of the Gods I: Kingdom of Storms,1686246,373044244,Well Go USA Entertainment,tt6979756,movie,148,"Action,Adventure,Drama",6.6,6527,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,9,110300000,0,0,0,1,0,1
+Guardians of the Galaxy Vol. 3,358995815,845555777,Walt Disney Studios Motion Pictures,tt6791350,movie,150,"Action,Adventure,Comedy",7.9,469114,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,5,250000000,0,0,0,1,0,1
+Anatomy of a Fall,3742039,35607937,Neon,tt17009710,movie,151,"Crime,Drama,Mystery",7.6,209298,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,R,10,7299105,0,0,0,0,1,1
+Indiana Jones and the Dial of Destiny,174480468,383963057,Walt Disney Studios Motion Pictures,tt1462764,movie,154,"Action,Adventure,Sci-Fi",6.5,232223,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,PG-13,6,300000000,0,0,0,1,0,0
+The Hunger Games: The Ballad of Songbirds & Snakes,159719625,337371917,Lionsgate,tt10545296,movie,157,"Action,Adventure,Drama",6.6,181901,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG-13,11,100000000,0,0,0,1,0,1
+Napoleon,60512228,221394838,Columbia Pictures,tt13287846,movie,158,"Action,Adventure,Biography",6.3,185903,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,R,11,200000000,0,0,0,0,1,0
+Mission: Impossible - Dead Reckoning Part One,172135383,567535383,Paramount Pictures,tt9603212,movie,163,"Action,Adventure,Thriller",7.6,326371,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,PG-13,7,291000000,0,0,0,1,0,0
+John Wick: Chapter 4,187131806,440157245,Lionsgate,tt10366206,movie,169,"Action,Crime,Thriller",7.6,409905,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,R,3,100000000,0,0,0,0,1,1
+Taylor Swift: The Eras Tour,179817571,261656269,AMC Theatres,tt28814949,movie,169,"Documentary,Music,Musical",8,25810,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,PG-13,10,20000000,0,0,0,1,0,1
+Renaissance: A Film by Beyonce,33223373,43989684,AMC Theatres,tt29354040,movie,169,"Documentary,Music",8.6,3837,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,PG-13,12,20000000,0,0,0,1,0,0
+The Wandering Earth II,3444487,615023132,Well Go USA Entertainment,tt13539646,movie,173,"Action,Adventure,Drama",6.7,16368,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PG,1,88000000,0,0,1,0,0,1
+Beau Is Afraid,7740323,11955354,A24,tt13521006,movie,179,"Comedy,Drama,Horror",6.6,78371,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,R,4,35000000,0,0,0,0,1,0
+Oppenheimer,326101370,975227046,Universal Pictures,tt15398776,movie,180,"Biography,Drama,History",8.2,1021275,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,R,7,100000000,0,0,0,0,1,1
+Killers of the Flower Moon,67292161,157026901,Paramount Pictures,tt5537002,movie,206,"Crime,Drama,History",7.5,306163,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,R,10,200000000,0,0,0,0,1,0
