@@ -1,0 +1,22 @@
+artifact_path: /Users/santiago/Documents/Portfolio Project/Post-pandemic-Box-Office/Models/mlruns/1/models/m-4ef9e82885ed4eda9dfe791abc981b71/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.13
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.21.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.15.1
+model_id: m-4ef9e82885ed4eda9dfe791abc981b71
+model_size_bytes: 37112
+model_uuid: m-4ef9e82885ed4eda9dfe791abc981b71
+prompts: null
+run_id: a6d2e5a82d224109a932859ade62c0c7
+utc_time_created: '2026-08-08 04:57:21.296553'
