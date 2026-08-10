@@ -5,6 +5,7 @@ description = "Using machine learning, we study the performance of movies with r
 authors = [
     {name = "sestupinansalamanca@gmail.com"}
 ]
+package-mode = false
 license = "MIT"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
