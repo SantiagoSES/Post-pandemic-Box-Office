@@ -5,7 +5,6 @@ description = "Using machine learning, we study the performance of movies with r
 authors = [
     {name = "sestupinansalamanca@gmail.com"}
 ]
-package-mode = false
 license = "MIT"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
@@ -19,6 +18,9 @@ dependencies = [
     "seaborn (>=0.13.2,<0.14.0)",
     "matplotlib (>=3.11.1,<4.0.0)"
 ]
+
+[tool.poetry]
+package-mode = false
 
 
 [build-system]
