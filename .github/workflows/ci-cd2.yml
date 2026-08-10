@@ -33,7 +33,7 @@ jobs:
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "# Student Risk Prediction Results" >> report.md
+          echo "# Student Risk Prediction Results" > report.md
           echo "## Model Performance Metrics" >> report.md
           echo "![](./plots/confusion_matrix_2013.png)" >> report.md
           cml comment create report.md
