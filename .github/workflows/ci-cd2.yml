@@ -4,10 +4,6 @@ on:
   push:
     branches: [ "main" ]
 
-permissions:
-  contents: read
-  pull-requests: write
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -35,7 +31,7 @@ jobs:
 
       - name: Generate CML Report
         env:
-          REPO_TOKEN: ${{ secrets.CML_TOKEN }}
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "# Student Risk Prediction Results" >> report.md
           echo "## Model Performance Metrics" >> report.md
