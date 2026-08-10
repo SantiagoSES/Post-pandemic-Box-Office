@@ -32,11 +32,11 @@ import matplotlib.pyplot as plt
 #Training Data.
 #Skip the header as it is not a number.
 #Each row corresponds to a movie and displays its runtime, IMDB rating, IMDB number of votes,...
-X = np.genfromtxt('/Data/Training_X.csv', delimiter=',', skip_header=1)  
+X = np.genfromtxt('Data/Training_X.csv', delimiter=',', skip_header=1)  
 m, n = X.shape
 #Each row of y says if 2.5*movie_budget was greater than worldwide_gross. This is the metric we are using to 
 #determine if a movie was successful.
-y = np.genfromtxt('/Data/Training_Y.csv', delimiter=',', skip_header=1)
+y = np.genfromtxt('Data/Training_Y.csv', delimiter=',', skip_header=1)
 
 
 # In[45]:
@@ -243,11 +243,11 @@ joblib.dump(model, "model.pkl")
 #Training Data.
 #Skip the header as it is not a number.
 #Each row corresponds to a movie and displays its runtime, IMDB rating, IMDB number of votes,...
-X_1 = np.genfromtxt('/Data/Hypothesis_X.csv', delimiter=',', skip_header=1)  
+X_1 = np.genfromtxt('Data/Hypothesis_X.csv', delimiter=',', skip_header=1)  
 m_1, n_1 = X_1.shape
 #Each row of y says if 2.5*movie_budget was greater than worldwide_gross. This is the metric we are using to 
 #determine if a movie was successful.
-y_1 = np.genfromtxt('/Data/Hypothesis_Y.csv', delimiter=',', skip_header=1)
+y_1 = np.genfromtxt('Data/Hypothesis_Y.csv', delimiter=',', skip_header=1)
 
 #We have to scale before predicting
 X_1_test=scaler.transform(X_1)
@@ -289,7 +289,7 @@ sns.heatmap(
 plt.xlabel("Predicted Label")
 plt.ylabel("True Label")
 plt.title("Confusion Matrix")
-plt.savefig("../plots/confusion_matrix_2013.png", dpi=300, bbox_inches="tight")
+plt.savefig("plots/confusion_matrix_2013.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 
