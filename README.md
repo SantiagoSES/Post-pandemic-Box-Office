@@ -43,6 +43,8 @@ Having concluded data cleaning, we standardize training data to facilitate train
 
 ## Model Training
 
+To keep track of experiments with different hyperparameters and the respective performance, we make use of MLflow locally. 
+
 We trained a multilayer perceptron (MLP) with 1 to 5 hidden layers and varying number of neurons and an XGBClassifier with 100 trees. In both cases, the data was separated so that 30% was saved for cross-validation and testing; concretely, 15% of the initial data for each task. 
 
 In the case of the multilayer perceptron, the network was trained with the binary cross entropy function as a loss function and adaptative gradient descent (Adam optimizer). Nowadays, the common practice is to use hidden layers of ReLU neurons but we experimented with sigmoid layers as well. The outer layer was linear and we specify so when parsing the loss function, so that it computes a sigmoid at the end in a numerically stable manner. Accordingly, when making predictions we need to manually compute the sigmoid of a list of features before evaluating. 
@@ -52,6 +54,12 @@ We had recall and precision in mind when opting for an accuracy metric, but the 
 We found that a rather rudimentary model with one hidden layer of 40 neurons was as satisfactory as more complex models. When using more than 40 neurons per layer the model began to overfit the data, whereas layering several times 20 to 40 neurons did not noticeably improve loss and validation loss. We also tried to regularize complex models but there is a barrier for loss around 0.54 and validation loss of 0.58, beyond which one is hard pressed to minimize training loss without increasing validation loss. Eliminating some of the features, particularly those related to the MPA certificate of a film or movie genre did not help either.
 
 In contrast to MLP training, training an extreme gradient boosting classifier did not require of extensive tuning to obtain comparable results. Employing a simple architecture of 100 trees, with maximum depth 4, and learning rate of 0.1 we get to a similar classification error.  
+
+## Continuous Integration and Development
+
+When new commits are pushed to main, a GitHub actions file is executed to normalize the new data, re-train the MLP using CML, save the resulting model and performance metrics using MLflow, serialize the model via Joblib, and produce a report displaying graphically the model's confusion matrix. The model is first containerized with CML, although being run on a temporal server it will disappear after some time. The reason for attempting it is to gain experience with Docker + GitHub actions.
+
+Once the new model has been trained and documented, we deploy it locally with FastAPI which allows us to make real-time prediction requests through a user interface (Swagger UI) that though rudimentary works perfectly for that purpose. The model and the API are then containerized a second time along with its dependencies through Docker and Poetry, but in a more permanent way this time (locally). Containerization enables potential later scalable deployment.
 
 ## Results
 
